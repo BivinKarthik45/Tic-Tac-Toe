@@ -58,10 +58,6 @@ To run the game, you need to have Java installed on your system.
 
 Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Feel free to adjust the content based on your preferences or add more sections if needed.
