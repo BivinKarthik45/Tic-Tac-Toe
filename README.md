@@ -10,28 +10,6 @@ This is a simple Tic-Tac-Toe game implemented in Java using the Swing GUI toolki
 
 To run the game, you need to have Java installed on your system.
 
-1. **Clone the Repository:**
-
-    ```bash
-    git clone https://github.com/yourusername/tic-tac-toe-java-swing.git
-    ```
-
-2. **Compile the Code:**
-
-    Navigate to the directory containing the `TicTacToe.java` file and compile it using the `javac` command:
-
-    ```bash
-    javac TicTacToe.java
-    ```
-
-3. **Run the Game:**
-
-    Once compiled, run the game using the `java` command:
-
-    ```bash
-    java TicTacToe
-    ```
-
 ## How to Play
 
 - The game starts with "X" being the first player.
@@ -53,11 +31,3 @@ To run the game, you need to have Java installed on your system.
 - Add error handling for boundary cases and unexpected input.
 - Allow players to customize their names and symbols.
 - Implement an AI opponent for single-player mode.
-
-## Contributing
-
-Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
-
----
-
-Feel free to adjust the content based on your preferences or add more sections if needed.
